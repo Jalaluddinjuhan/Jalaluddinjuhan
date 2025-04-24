@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jalaluddinjuhan
 - 👀 I’m interested in Eating, Photographing, Motivating
-- 🌱 I’m currently learning SLQ Management Studio, C# .NET Platform
+- 🌱 I’m currently learning SLQ Management Studio, C# .NET Platform from IsDB-BISEW (Islamic Development Bank-Bangladesh Islamic Solidarity Education Wakf).
 - 💞️ I’m looking to collaborate on anyone 
 - 📫 How to reach me Though facebook, LinkedIn 
 - 😄 Pronouns: Juu Han
